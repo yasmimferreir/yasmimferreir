@@ -7,7 +7,7 @@ Linguagens e Tecnologias que tenho conhecimento:
 
 📌Ferramentas: VS CORE, Git, Github e outras.
   
-   #### 💻✔Meu tempo é dedicação está na Programação
+   #### 💻✔
   
  ##
  
