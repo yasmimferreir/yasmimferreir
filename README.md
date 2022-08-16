@@ -1,10 +1,10 @@
-<img width= 70% src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=993399&width=435&lines=👋Olá,Bem-vindo(a)" />
-<img width= 80% src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=993399&width=435&lines=Sou+Yasmim+Ferreira+Costa!;Desenvolvedora+Front-end☕;Cursando+desenvolvimento+Full+Stack" />
+<img width= 80% src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=993399&width=435&lines=👋Olá,Bem-vindo(a)" />
+<img width= 100% src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=993399&width=435&lines=Sou+Yasmim+Ferreira+Costa!;Desenvolvedora+Front-end☕;Cursando+desenvolvimento+Full+Stack" />
 
   ##
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=yasmimferreir&show_icons=true&count_private=true&hide_border=true&title_color=993399&icon_color=993399&text_color=c9d1d9&bg_color=0d1117" alt="Yasmim Ferreira Costa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmimferreir&layout=compact&hide_border=true&title_color=993399&text_color=993399&bg_color=0d1117" />
+  <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api?username=yasmimferreir&show_icons=true&count_private=true&hide_border=true&title_color=993399&icon_color=993399&text_color=c9d1d9&bg_color=0d1117" alt="Yasmim Ferreira Costa github stats" /> 
+  <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmimferreir&layout=compact&hide_border=true&title_color=993399&text_color=993399&bg_color=0d1117" />
 
 </div>
 <h2> Minhas skills:
