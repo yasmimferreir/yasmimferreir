@@ -1,44 +1,40 @@
+<img width= 70% src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=993399&width=435&lines=👋Olá,Bem-vindo(a)" />
+<img width= 80% src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=993399&width=435&lines=Sou+Yasmim+Ferreira+Costa!;Desenvolvedora+Front-end☕;Cursando+desenvolvimento+Full+Stack" />
 
-  <h2> <img width="41" alt="gff" src="https://user-images.githubusercontent.com/97356148/163890400-194462af-4fb0-4925-830f-f31966ca3cfb.png"> Hello welcome, I'm Yasmim Ferreira</h2><br>
-
-<h3>📌I am currently a Fullstack Developer,<br>
-Some tools I use and Technologies I have knowledge of: <br>HTML, CSS, JAVASCRIPT, VS CORE, Git, Github and others.
-<h3>
-
-
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
-
-  
- ##
- 
-<div style="display:inline_block"><br>
-  <img align="center" alt="Yasmim-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Yasmim-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Yasmim-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Yasmim-REACT" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
-  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
-</div>
-
-##
-  
-  
-<div>
-  <h2> 🌍📍Where to find me <br>
-    <br>
-  <a href = "mailto:yasmimferreiracost@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/yasmim-ferreira-costa-186852229/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  </div>
-  
   ##
-  
-<div style="display: inline_block">
-  <a href="https://github.com/yasmimferreir">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasmimferreir&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmimferreir&layout=compact&langs_count=7&theme=dracula"/>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=yasmimferreir&show_icons=true&count_private=true&hide_border=true&title_color=993399&icon_color=993399&text_color=c9d1d9&bg_color=0d1117" alt="Yasmim Ferreira Costa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmimferreir&layout=compact&hide_border=true&title_color=993399&text_color=993399&bg_color=0d1117" />
+
 </div>
+<h2> Minhas skills:
+
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+
+![Sass](https://img.shields.io/badge/-Sass-0D1117?style=for-the-badge&logo=sass&logoColor=pink&labelColor=0D1117)&nbsp; 
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=wellow&labelColor=0D1117)&nbsp; 
 
 
+### Ferramentas:
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
+
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; 
+
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 
 
+### Outros conhecimentos:
 
+![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
+
+### Estudando neste momento:
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+
+### Desenvolvedora Yasmim Ferreira Costa🛠
