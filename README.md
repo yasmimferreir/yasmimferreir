@@ -1,10 +1,14 @@
 ### Olá 👋🏼
 
-Desenvolvedor(a) Yasmim Ferreira Costa
+💻 Desenvolvedor(a) Full Stack | Mulheres na TI 💖
+
+📚 Cursando Desenvolvimento Full Stack no DEVCLUB 
+
+💖Amor pela tecnologia + JavaScript + banco de dados 
 
 - 🔭 No momento, estou trabalhando em algo legal
 - 🌱 Sempre estou aprendendo algo novo
-- 💬 Competência em HTML/Css/Sass/Javascript/NodeJs/ReactJs entre outros
+- 👩🏾‍🎓 Competência em HTML/Css/Sass/Javascript/NodeJs/ReactJs entre outros
 - ⚡ Sempre colocando em prática 
 - ✨ Email: yasmimferreiracost@gmail.com
 
