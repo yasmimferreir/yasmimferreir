@@ -9,7 +9,6 @@
 - 🔭 No momento, estou trabalhando em algo legal
 - 🌱 Sempre estou aprendendo algo novo
 - 👩🏾‍🎓 Competência em HTML/Css/Sass/Javascript/NodeJs/ReactJs entre outros
-- ⚡ Sempre colocando em prática 
 - ✨ Email: yasmimferreiracost@gmail.com
 
 
