@@ -1,17 +1,18 @@
-### Olá 👋🏼
+### Olá bem-vindo(a)
 
-💻 Desenvolvedor(a) Full Stack | Mulheres na TI 💖
+💻 Desenvolvedor(a) Full Stack | + Mulheres na TI 💖
 
 📚 Cursando Desenvolvimento Full Stack no DEVCLUB 
 
-💖Amor pela tecnologia + JavaScript + banco de dados 
+💖Amor pela tecnologia + JavaScript + banco de dados = Eu 🤩
+<br> <hr>
 
 - 🔭 No momento, estou trabalhando em algo legal
 - 🌱 Sempre estou aprendendo algo novo
 - 👩🏾‍🎓 Competência em HTML/Css/Sass/Javascript/NodeJs/ReactJs entre outros
 - ✨ Email: yasmimferreiracost@gmail.com
 
-
+<br> <hr>
 
 🔗  Conecte-se comigo
 <p align="left">
