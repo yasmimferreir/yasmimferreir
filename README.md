@@ -4,7 +4,7 @@
 
 📚 Cursando Desenvolvimento Full Stack no DEVCLUB 
 
-💖Amor pela tecnologia + JavaScript + banco de dados = Eu 🤩
+💖Amor pela tecnologia + JavaScript + banco de dados 
 <br> <hr>
 
 - 🔭 No momento, estou trabalhando em algo legal
