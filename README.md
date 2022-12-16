@@ -1,7 +1,7 @@
    <img src="https://user-images.githubusercontent.com/97356148/207979450-3dcffb08-b0df-4c23-8736-b1fe60b2f9ea.png" > <hr>
 
 
-> 👋🏼 Olá bem-vindo(a) sou Yasmim Ferreira
+> 👋🏼 Olá bem-vindo(a)
 - 💻 Sou Software Engineering || Front-End
 - 👩🏾‍🎓  + Mulheres na TI 💖
 - 🧠 Iniciando Graduação em Engenharia de Software - Wyden 
