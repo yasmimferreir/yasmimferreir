@@ -10,7 +10,7 @@
 - 🔭 No momento, estou trabalhando em algo legal
 - 🌱 Sempre estou aprendendo algo novo
 - 📩 Fale comigo pelo Email: yasmimferreiracost@gmail.com
-- 🌍 Confira meu Portfólio: 
+- 🌍 Confira meu Portfólio: https://software-portfolio-yasmimferreira.netlify.app/
 
 <hr>
 
